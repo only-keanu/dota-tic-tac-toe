@@ -52,7 +52,3 @@ No environment variables, database, or backend services are required. Production
 Unofficial fan project. Dota 2, character names, and hero artwork belong to Valve. Hero artwork sourced from Valve's Steam CDN, as used by https://www.dota2.com/heroes. Background music uses the user-supplied Dota.mp3 in public/audio/dota.mp3. Spell and victory effects are synthesized with the Web Audio API. Fonts: Barlow, Barlow Condensed, and Cinzel via Google Fonts (with system fallbacks). UI icons: Lucide (ISC license).
 
 Original English hero voice recordings belong to Valve and are bundled from the unofficial [Dota 2 Sounds collection](https://huggingface.co/datasets/Sqls1/dota2-sounds). They use standard hero voices. All clips are served locally, including in the static export, with no external audio requests during gameplay. `node scripts/fetch-voices.mjs` downloads missing clips and records source checksums; normal builds use the bundled files.
-
-Assignment: https://tremendous-tiger-a4a.notion.site/Test-1-Tic-Tac-Toe-React-App-22200bbdfc3b80d089deee909ae597e4
-
-The project has not been submitted to the employer.
