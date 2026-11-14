@@ -1,0 +1,19 @@
+{
+  "name": "ancients-tic-tac-toe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "prebuild": "node scripts/fetch-assets.mjs",
+    "build": "next build",
+    "start": "node preview.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "lucide-react": "1.73.0"
+  }
+}

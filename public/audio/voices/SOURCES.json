@@ -1,0 +1,273 @@
+{
+  "credit": "Dota 2 and original hero voice recordings © Valve Corporation. Unofficial fan project.",
+  "repository": "https://huggingface.co/datasets/Sqls1/dota2-sounds",
+  "revision": "62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b",
+  "sources": [
+    {
+      "hero": "juggernaut",
+      "clip": "/audio/voices/juggernaut/jug_rare_01.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/juggernaut/jug_rare_01.mp3",
+      "bytes": 15801,
+      "sha256": "d68abbf2369ccfc996b379ed7ecd0216e6d075382665b4983d450f508d91a815"
+    },
+    {
+      "hero": "juggernaut",
+      "clip": "/audio/voices/juggernaut/jug_rare_02.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/juggernaut/jug_rare_02.mp3",
+      "bytes": 14129,
+      "sha256": "1ccb64ea55d8116479f6efd751205738374c6214e3ac46fdb6bf922b99fb8716"
+    },
+    {
+      "hero": "juggernaut",
+      "clip": "/audio/voices/juggernaut/jug_rare_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/juggernaut/jug_rare_03.mp3",
+      "bytes": 19563,
+      "sha256": "e6713e0347e96ea01d69b4ecb4fcdbfe55257b918359c470f5f3b23acde5d136"
+    },
+    {
+      "hero": "juggernaut",
+      "clip": "/audio/voices/juggernaut/jug_rare_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/juggernaut/jug_rare_04.mp3",
+      "bytes": 16219,
+      "sha256": "8e86ee48c3caaa06554f3ffbdead76554083fc2f75bd35b034fea7be57a452a0"
+    },
+    {
+      "hero": "juggernaut",
+      "clip": "/audio/voices/juggernaut/jugg_taunt_01.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/juggernaut/jugg_taunt_01.mp3",
+      "bytes": 13293,
+      "sha256": "5594f8ca88623000e70e56a8e3cf596dbf62cd24c825ad80484478d57da03061"
+    },
+    {
+      "hero": "juggernaut",
+      "clip": "/audio/voices/juggernaut/jugg_taunt_02.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/juggernaut/jugg_taunt_02.mp3",
+      "bytes": 17891,
+      "sha256": "16c18ee1e8eda33b2712166760ada6fd57b3561c3cf41141af19c33c80982414"
+    },
+    {
+      "hero": "nevermore",
+      "clip": "/audio/voices/nevermore/nev_rare_01.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/nevermore/nev_rare_01.mp3",
+      "bytes": 25414,
+      "sha256": "decab1def905c59ecf4b9d938ae92e5db61da0bec74bc526d189e54d9066c36c"
+    },
+    {
+      "hero": "nevermore",
+      "clip": "/audio/voices/nevermore/nev_rare_02.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/nevermore/nev_rare_02.mp3",
+      "bytes": 49447,
+      "sha256": "5ac59b41af23e1c877725370c17b177f67da022d0e06945f90c83d7e9c4ed0b8"
+    },
+    {
+      "hero": "nevermore",
+      "clip": "/audio/voices/nevermore/nev_rare_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/nevermore/nev_rare_03.mp3",
+      "bytes": 33773,
+      "sha256": "fc1c0ae8995c919cb7eb181a9f07d20f73e8815bbcb869382c0e25c52fbe39cb"
+    },
+    {
+      "hero": "nevermore",
+      "clip": "/audio/voices/nevermore/nev_rare_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/nevermore/nev_rare_04.mp3",
+      "bytes": 26877,
+      "sha256": "09bfeff899793e6efe9490819b1329f25ca0796f7ef8d035d911692701a5307c"
+    },
+    {
+      "hero": "nevermore",
+      "clip": "/audio/voices/nevermore/nev_rare_05.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/nevermore/nev_rare_05.mp3",
+      "bytes": 55298,
+      "sha256": "84e5dd6d99d6d1eee49097dbe2e57bd3770d7b04b4c5f2187de9c1e6a9f88a2f"
+    },
+    {
+      "hero": "nevermore",
+      "clip": "/audio/voices/nevermore/nev_spawn_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/nevermore/nev_spawn_04.mp3",
+      "bytes": 30848,
+      "sha256": "5a28cba00b0a045ee8f5a34a8e1fb203db99e4b7597728bc21e5ecdf44c0c356"
+    },
+    {
+      "hero": "crystal_maiden",
+      "clip": "/audio/voices/crystal_maiden/cm_rare_01.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/crystalmaiden/cm_rare_01.mp3",
+      "bytes": 24578,
+      "sha256": "783d97bf465d604ad5814ed6effd6c85a6ec397513f5119f10943118109e6776"
+    },
+    {
+      "hero": "crystal_maiden",
+      "clip": "/audio/voices/crystal_maiden/cm_rare_02.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/crystalmaiden/cm_rare_02.mp3",
+      "bytes": 21025,
+      "sha256": "fb3996a287550f392b9c8c18fcd73372efdd62238bb7cef5696fa01a8546eb01"
+    },
+    {
+      "hero": "crystal_maiden",
+      "clip": "/audio/voices/crystal_maiden/cm_rare_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/crystalmaiden/cm_rare_03.mp3",
+      "bytes": 45894,
+      "sha256": "bac16b3a99a1ab91561dca1f224d5a00a83d20780422e02e8e5a98098720df90"
+    },
+    {
+      "hero": "crystal_maiden",
+      "clip": "/audio/voices/crystal_maiden/cm_rare_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/crystalmaiden/cm_rare_04.mp3",
+      "bytes": 24369,
+      "sha256": "8d25d408e7aaa6a5928052354046768f74ca7619f29c2997da7ed29da16673cf"
+    },
+    {
+      "hero": "crystal_maiden",
+      "clip": "/audio/voices/crystal_maiden/cm_spawn_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/crystalmaiden/cm_spawn_03.mp3",
+      "bytes": 7651,
+      "sha256": "6795e0e35e1dbd63690d7e641537c6d2a66c5b28c53e1bdca57d9f86e3fa7a4c"
+    },
+    {
+      "hero": "crystal_maiden",
+      "clip": "/audio/voices/crystal_maiden/cm_spawn_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/crystalmaiden/cm_spawn_04.mp3",
+      "bytes": 12039,
+      "sha256": "8e944b6a48d2d3ec7cda8502abac5ff84b0860623934d760211e360d50decd19"
+    },
+    {
+      "hero": "axe",
+      "clip": "/audio/voices/axe/axe_rare_01.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/axe/axe_rare_01.mp3",
+      "bytes": 42550,
+      "sha256": "381ab9409118aab80a5b84afdb63e84ccf775cc3c7252ef99c22f963dd265e1f"
+    },
+    {
+      "hero": "axe",
+      "clip": "/audio/voices/axe/axe_rare_02.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/axe/axe_rare_02.mp3",
+      "bytes": 46730,
+      "sha256": "32d570114aaa8184eee40a7cefabf1a8e26c9a7d3e3123317da769f93a2bf3ab"
+    },
+    {
+      "hero": "axe",
+      "clip": "/audio/voices/axe/axe_rare_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/axe/axe_rare_03.mp3",
+      "bytes": 17682,
+      "sha256": "bccafdf1a2da1a79691ec0c0e855b0c63c7734eace04dde9f2ac2dbebfa7510d"
+    },
+    {
+      "hero": "axe",
+      "clip": "/audio/voices/axe/axe_spawn_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/axe/axe_spawn_03.mp3",
+      "bytes": 7442,
+      "sha256": "3ee6debbcfdcb54f8b9f1116aa5b5338ac19bc13dae66f666a9e82ea19ba8465"
+    },
+    {
+      "hero": "axe",
+      "clip": "/audio/voices/axe/axe_spawn_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/axe/axe_spawn_04.mp3",
+      "bytes": 14338,
+      "sha256": "83d3cc33b5ceb950b17a2aa2f73799d4a3c5c8f5a2d40c5d344263935bdafcc2"
+    },
+    {
+      "hero": "axe",
+      "clip": "/audio/voices/axe/axe_spawn_05.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/axe/axe_spawn_05.mp3",
+      "bytes": 11412,
+      "sha256": "bab8301158868b797df8d508c5a174f15abed573a60e86afc65b315e49ff4dae"
+    },
+    {
+      "hero": "windrunner",
+      "clip": "/audio/voices/windrunner/wind_rare_01.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/windrunner/wind_rare_01.mp3",
+      "bytes": 24578,
+      "sha256": "88358f22cbebfb5975e7de3f50e47cdf621d1e08088b6ce46d84c9d4036473c5"
+    },
+    {
+      "hero": "windrunner",
+      "clip": "/audio/voices/windrunner/wind_rare_02.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/windrunner/wind_rare_02.mp3",
+      "bytes": 30848,
+      "sha256": "85edfdf9e97aaf93ee202c2649d4baca5f0e67f82831a6ae8051a874e92699ca"
+    },
+    {
+      "hero": "windrunner",
+      "clip": "/audio/voices/windrunner/wind_rare_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/windrunner/wind_rare_03.mp3",
+      "bytes": 36490,
+      "sha256": "f97e7569467e0e5d704a9eb4bbab973bde07a580577cd03309ad0c4e8f7bb51a"
+    },
+    {
+      "hero": "windrunner",
+      "clip": "/audio/voices/windrunner/wind_rare_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/windrunner/wind_rare_04.mp3",
+      "bytes": 23115,
+      "sha256": "bc6936db55232712b228deb3d2b21a60591fcaf1ff82ccb33c9758fcd02b29c5"
+    },
+    {
+      "hero": "windrunner",
+      "clip": "/audio/voices/windrunner/wind_spawn_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/windrunner/wind_spawn_03.mp3",
+      "bytes": 13293,
+      "sha256": "4755d8d4f732c719aaa95ad1b21b960b9563931d5b53f4084b710fb44c7d1577"
+    },
+    {
+      "hero": "windrunner",
+      "clip": "/audio/voices/windrunner/wind_spawn_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/windrunner/wind_spawn_04.mp3",
+      "bytes": 10159,
+      "sha256": "c321f1319703f3ede051c9f6a064b69930742a0a022b1fa3375f91e8bb3dd70c"
+    },
+    {
+      "hero": "invoker",
+      "clip": "/audio/voices/invoker/invo_rare_01.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/invoker/invo_rare_01.mp3",
+      "bytes": 32728,
+      "sha256": "aa7667dc40107274d59bb7feb35ca56537118c18567b8cef4d79e416cf16fc9f"
+    },
+    {
+      "hero": "invoker",
+      "clip": "/audio/voices/invoker/invo_rare_02.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/invoker/invo_rare_02.mp3",
+      "bytes": 37117,
+      "sha256": "b3b14495c904012853b8ee36796a08133f8ca86062ec016d3649a3a5e2b47731"
+    },
+    {
+      "hero": "invoker",
+      "clip": "/audio/voices/invoker/invo_rare_03.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/invoker/invo_rare_03.mp3",
+      "bytes": 89571,
+      "sha256": "b673e27d7a844d34ae14850914ddcd86c37331be7566750a108c534c3445146d"
+    },
+    {
+      "hero": "invoker",
+      "clip": "/audio/voices/invoker/invo_rare_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/invoker/invo_rare_04.mp3",
+      "bytes": 82256,
+      "sha256": "54acf40160b78888150f4d7372703d0d2a59cb92616c4072421b00f0abfc703d"
+    },
+    {
+      "hero": "invoker",
+      "clip": "/audio/voices/invoker/invo_rare_05.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/invoker/invo_rare_05.mp3",
+      "bytes": 89571,
+      "sha256": "1d47c06c4716949fa643c384910190f15f6324c63d46b36e5cc22ce1c81fd6be"
+    },
+    {
+      "hero": "invoker",
+      "clip": "/audio/voices/invoker/invo_spawn_04.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/invoker/invo_spawn_04.mp3",
+      "bytes": 35027,
+      "sha256": "0f0f87c83e64c129ab179894aecbb23c06939b9dc1d9b017fa481e05aba0ccbe"
+    },
+    {
+      "hero": "announcer",
+      "clip": "/audio/voices/announcer/announcer_victory_rad.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/announcer/announcer_victory_rad.mp3",
+      "bytes": 14756,
+      "sha256": "6ea12173df417671657610c9c63489ba55101b0b2a15187fc974d8ad45dbb593"
+    },
+    {
+      "hero": "announcer",
+      "clip": "/audio/voices/announcer/announcer_victory_dire.mp3",
+      "source": "https://huggingface.co/datasets/Sqls1/dota2-sounds/resolve/62bb2f7e7f73be34587f4e1d020cc5c796a1bc6b/sounds/vo/announcer/announcer_victory_dire.mp3",
+      "bytes": 13293,
+      "sha256": "f16a0f275e35742539dd7fd3e786d9140b6207547d58085b102dfd129a381444"
+    }
+  ]
+}
